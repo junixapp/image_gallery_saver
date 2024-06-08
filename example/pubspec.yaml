@@ -21,7 +21,7 @@ dependencies:
   path_provider: ^2.0.15
   dio: ^5.2.1+1
 
-  image_gallery_saver:
+  image_gallery_saver2:
     path: ../
   cupertino_icons: ^1.0.5
 

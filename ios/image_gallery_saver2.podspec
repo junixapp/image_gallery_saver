@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'image_gallery_saver'
+  s.name             = 'image_gallery_saver2'
   s.version          = '2.0.2'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC

@@ -1,3 +1,6 @@
+## 2.0.4
+- fix android namespace
+
 ## 2.0.3
 - 1.Upgrade flutter version to 3.10.5
 - 2.Android build tools are upgraded to 7.3.0
