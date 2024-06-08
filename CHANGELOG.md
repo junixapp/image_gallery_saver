@@ -1,4 +1,4 @@
-## 2.0.4
+## 2.0.5
 - fix android namespace
 
 ## 2.0.3
